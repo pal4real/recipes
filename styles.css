@@ -1,0 +1,29 @@
+body {
+    background-color: black;
+    color: wheat;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+#title {
+    text-align: center;
+    margin: 10 auto;
+    font-size: 50px;
+}
+
+/*div.container {
+    text-align: center;
+}*/
+
+ul {
+    display: table;
+    font-size: 30px;
+    margin: 0 auto;
+    list-style-type: none;
+    text-align: center;
+    position: relative;
+    left: -20px;
+}
+
+a, a:visited, a:hover, a:active {
+  color: inherit;
+}
